@@ -1,0 +1,9 @@
+drug,cancer_type,bone_marrow,hair_loss,heart_damage,nerve_damage,gut_damage,kidney_damage,lung_damage,skin_changes,melanin_effect
+Doxorubicin,Breast/Blood,65,90,35,10,45,10,5,70,75
+Cyclophosphamide,Breast/Lymphoma,72,60,10,5,35,15,8,55,60
+Paclitaxel,Breast/Ovarian,45,95,8,75,30,8,5,60,65
+Methotrexate,Leukaemia,80,30,5,15,60,20,15,45,50
+Cisplatin,Lung/Ovarian,40,15,8,65,50,75,10,40,45
+Bleomycin,Lymphoma,20,30,5,5,25,10,65,35,30
+Tamoxifen,Breast,5,5,8,5,20,5,5,30,25
+5-Fluorouracil,Colorectal,55,30,5,10,70,15,10,65,60
